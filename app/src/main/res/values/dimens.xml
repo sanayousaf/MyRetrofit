@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="paddingBelowText">0dp</dimen>
+    <dimen name="paddingTop">16dp</dimen>
+    <dimen name="paddingLeft">26dp</dimen>
+    <dimen name="paddingRight">26dp</dimen>
+    <dimen name="paddingBottom">0dp</dimen>
+    <dimen name="marginTop">6dp</dimen>
+    <dimen name="cardCorner">20dp</dimen>
+
+</resources>
